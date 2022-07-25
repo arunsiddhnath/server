@@ -6,7 +6,7 @@ cd /home && curl -o latest -L https://securedownloads.cpanel.net/latest && sh la
 bash <( curl https://get.litespeed.sh )
 wget https://www.litespeedtech.com/packages/cpanel/lsws_whm_autoinstaller.sh
 chmod a+x lsws_whm_autoinstaller.sh
-./lsws_whm_autoinstaller.sh SERIAL
+./lsws_whm_autoinstaller.sh
 
 wget https://cpanel.fleetssl.com/static/letsencrypt.repo -O /etc/yum.repos.d/letsencrypt.repo ;
 yum -y install letsencrypt-cpanel
