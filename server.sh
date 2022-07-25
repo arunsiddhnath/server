@@ -1,4 +1,6 @@
 #!/bin/bash
+systemctl stop NetworkManager
+systemctl disable NetworkManager
 cd /home && curl -o latest -L https://securedownloads.cpanel.net/latest && sh latest
 
 wget https://cpanel.fleetssl.com/static/letsencrypt.repo -O /etc/yum.repos.d/letsencrypt.repo ;
