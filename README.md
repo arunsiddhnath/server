@@ -14,3 +14,6 @@ Cpanel, fleet, softaculous, litespeed, jetbackup, imunify360 license installatio
 
 wget https://raw.githubusercontent.com/arunsiddhnath/server/main/licsys.sh && chmod +x licsys.sh && ./licsys.sh
 
+4. Only For Licsys Fleet Lic..
+
+wget https://raw.githubusercontent.com/arunsiddhnath/server/main/fleetssl.sh && chmod +x fleetssl.sh && ./fleetssl.sh
