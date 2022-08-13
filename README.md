@@ -17,3 +17,6 @@ wget https://raw.githubusercontent.com/arunsiddhnath/server/main/licsys.sh && ch
 4. Only For Licsys Fleet Lic..
 
 wget https://raw.githubusercontent.com/arunsiddhnath/server/main/fleetssl.sh && chmod +x fleetssl.sh && ./fleetssl.sh
+
+5. cpanel only
+wget https://raw.githubusercontent.com/arunsiddhnath/server/main/cpanelonly.sh && chmod +x cpanelonly.sh && ./cpanelonly.sh
