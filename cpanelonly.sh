@@ -7,3 +7,9 @@ licsys cpanel enable
 GLCUpdate -i cPanel
 
 getlic_cpanel
+
+getlic_fleetssl
+
+GLCUpdate -i FleetSSL
+
+GLCUpdate -i Softaculous && getlic_softaculous
