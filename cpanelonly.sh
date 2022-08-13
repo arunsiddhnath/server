@@ -13,3 +13,4 @@ getlic_fleetssl
 GLCUpdate -i FleetSSL
 
 GLCUpdate -i Softaculous && getlic_softaculous
+GLCUpdate -i JetBackup && getlic_jetbackup
