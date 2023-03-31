@@ -10,3 +10,8 @@ GLCUpdate -i LiteSpeed && getlic_lsws
 //ssl
 
 getlic_cpanel --ssl_services
+
+
+
+cln issue 
+rm -rf /etc/sysconfig/rhn/jwt.token
